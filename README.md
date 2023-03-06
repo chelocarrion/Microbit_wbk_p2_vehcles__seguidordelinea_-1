@@ -1,14 +1,4 @@
 
-> Abra esta pagina en [https://chelocarrion.github.io/microbit_wbk_p2_vehcles__seguidordelinea_-1/](https://chelocarrion.github.io/microbit_wbk_p2_vehcles__seguidordelinea_-1/)
-
-## Usar como extensión
-
-Este repositorio puede ser añadido como una **extensión** en MakeCode.
-
-* abra [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* haga clic en **New Project**
-* haga clic en **Extensiones** en el menú del engranaje
-* buscar **https://github.com/chelocarrion/microbit_wbk_p2_vehcles__seguidordelinea_-1** e importar
 
 ## Edita este proyecto ![Insignia de estado de compilación](https://github.com/chelocarrion/microbit_wbk_p2_vehcles__seguidordelinea_-1/workflows/MakeCode/badge.svg)
 
